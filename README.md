@@ -18,4 +18,4 @@ Spring Boot Boilerplate for Spring Boot MicroService with Netty
 - http://localhost:8082/spring-boot-boilerplate-netty/v1/version
 
 ### Api documentation
-- http://localhost:8082/spring-boot-boilerplate-netty/swagger-ui/index.html
+- http://localhost:8082/spring-boot-boilerplate-netty/webjars/swagger-ui/index.html

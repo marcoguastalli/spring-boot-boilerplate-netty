@@ -6,8 +6,13 @@ web:
 # server #
 server:
   port: 8082
-  servlet:
-    contextPath: /spring-boot-boilerplate-netty
+
+# netty #
+spring:
+  main:
+    web-application-type: reactive
+  webflux:
+    base-path: spring-boot-boilerplate-netty
 
 # logger #
 logging:
